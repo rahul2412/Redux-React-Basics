@@ -2,6 +2,7 @@
 A simple react application that demonstrates the functionality of Redux library using (console.log).
 
 ## How to run-
+- npm install.
 - npm start.
 - The application will open on your browser on http://localhost:3000.
 
