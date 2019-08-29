@@ -1,5 +1,5 @@
 # Redux-React-Basics
-A simple react application that demonstrates the functionality of Redux library using (console.log).
+A simple react application that demonstrates the functionality of Redux library ( a javascript library for managing application states) using <i><u>console.log</u></i>.
 
 ## How to run-
 - npm install.
