@@ -1,5 +1,5 @@
 
-export default function addArticle(payload) {
+export function addArticle(payload) {
   return { type: "ADD_ARTICLE", payload };
 } 
 // Action function
